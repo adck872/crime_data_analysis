@@ -24,6 +24,7 @@ map-data - containing jseon file for maps
 population_cv - cleaned population data
 population.xlxl - excel pre-processing file
 policeforceareas2024.csv - police force data cleaned
+flowchart.png- flowchart of preprocessing taskS
 
 technologies used-----------------------------------------------------------------------------------------------------------
 pandas
